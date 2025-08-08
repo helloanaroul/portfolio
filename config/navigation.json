@@ -1,0 +1,7 @@
+[
+  { "id": "linksSection", "name": "Links", "icon": "bi-house", "activeIcon": "bi-house-fill" },
+  { "id": "portfolioSection", "name": "Portfolio", "icon": "bi-collection", "activeIcon": "bi-collection-fill" },
+  { "id": "projectsSection", "name": "Projects", "icon": "bi-folder2-open", "activeIcon": "bi-folder2-open" },
+  { "id": "experienceSection", "name": "Experience", "icon": "bi-briefcase", "activeIcon": "bi-briefcase-fill" },
+  { "id": "contactSection", "name": "Contact", "icon": "bi-envelope", "activeIcon": "bi-envelope-fill" }
+]
